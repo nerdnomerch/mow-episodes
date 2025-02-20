@@ -1,0 +1,46 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 4
+        },
+        "level.tmx": {
+            "scale": 1.1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 479.5454545454545,
+                "y": 320
+            }
+        },
+        "level.tmx#plains": {
+            "scaleInDock": 2
+        }
+    },
+    "last.exportedFilePath": "/Users/dannolan/Desktop/repos/working-session/server",
+    "last.imagePath": "/Users/dannolan/Desktop/repos/working-session/client/assets/maps",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 60,
+    "openFiles": [
+        "level.tmx"
+    ],
+    "project": "level.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "level.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
